@@ -23,6 +23,7 @@ graph TD
     B --> C[PostgreSQL Database]
     C --> D[SCRIBE Content Engine]
     D --> E[Humanized Reports]
+```
 Основные технологии:
 Python 3.9+ (psycopg2, requests, datetime)
 
